@@ -1,0 +1,111 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 15%;
+  /* margin-bottom: 30px;
+    margin-top: 30px; */
+}
+
+.carousel-container {
+  display: flex;
+  flex-direction: row;
+  height: 15%;
+  width: 90%;
+}
+
+.carousel-inner {
+  border-radius: 15px;
+}
+
+.event-icon {
+  width: 65px;
+  height: 65px;
+}
+
+.event-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  font-weight: bold;
+}
+.one {
+  display: flex;
+  padding-top: 5%;
+  align-items: center;
+}
+
+.two {
+  display: flex;
+  padding-top: 20%;
+  align-items: center;
+}
+
+.carousel-item-m {
+  height: 250px;
+}
+
+.carousel-img-m {
+  height: 100%;
+  object-fit: cover;
+}
+
+.type {
+  background-color: #3d84ff;
+  border-radius: 10px;
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px 0px 2px 0px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+}
+
+.hour {
+  color: #9d9bb6;
+  font-weight: bold;
+  display: block;
+}
+
+.text-event {
+  color: #192452;
+  font-weight: bold;
+  font-size: 18px;
+  display: block;
+}
+.carousel-caption {
+  display: flex;
+}
+
+.carousel-text-left {
+  flex: 1;
+  font-size: 30px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.carousel-text-right {
+  flex: 1;
+  font-size: 30px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.event-description {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+}
+
+.descript {
+  display: flex;
+  flex-direction: column;
+  white-space: "nowrap";
+  overflow: "hidden";
+  text-overflow: ellipsis;
+}

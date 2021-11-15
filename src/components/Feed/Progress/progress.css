@@ -1,0 +1,120 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 15%;
+  /* margin-bottom: 30px;
+    margin-top: 30px; */
+}
+
+.completed-box {
+  height: 120px;
+  width: 80%;
+  margin: 0 auto 80px auto;
+  border-radius: 15px;
+  background-color: rgba(190, 190, 190, 0.226);
+}
+
+.completed {
+  color: #fcfdfd;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.completed::before {
+  background-color: #fed200;
+  border-radius: 5px;
+  content: "";
+  display: inline-block;
+  height: 12px;
+  margin-right: 5px;
+  width: 12px;
+}
+
+.left-to-go {
+  color: #fcfdfd;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.left-to-go::before {
+  background-color: #ff794f;
+  border-radius: 5px;
+  content: "";
+  display: inline-block;
+  height: 12px;
+  width: 12px;
+  margin-right: 5px;
+}
+
+.completed-content {
+  float: left;
+  text-align: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+  justify-content: center;
+}
+
+.left-content {
+  align-content: center;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+  justify-content: center;
+  border-left: 1px solid #f2f7f9;
+}
+
+.hours {
+  text-align: center;
+  font-size: 2.5rem;
+  color: white;
+  font-weight: 900;
+}
+
+.left {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  width: 800px;
+  gap: 25px;
+}
+
+.footer {
+  margin-top: 65px;
+  margin-bottom: 0%;
+  background: url("../../../assets/icons/IMG/oval-footer.svg") no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 0;
+  width: 95%;
+  height: 70px;
+  border-radius: 5px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-text {
+  color: white;
+  font-weight: bold;
+}
+
+.footer-confirm {
+  padding-left: 5px;
+  color: white;
+  font-weight: normal;
+}

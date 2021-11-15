@@ -1,0 +1,20 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 15%;
+  /* margin-bottom: 30px;
+    margin-top: 30px; */
+}
+
+.img-accordion {
+  height: 3.5%;
+  width: 3.5%;
+  margin-right: 15px;
+}
+
+.follower {
+  color: #1884ff;
+  padding-left: 5px;
+  padding-right: 5px;
+}
