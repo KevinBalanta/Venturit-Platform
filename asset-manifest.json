@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/KevinBalanta/Venturit-Platform.git/static/css/main.bae08aac.chunk.css",
+    "main.js": "/KevinBalanta/Venturit-Platform.git/static/js/main.d39d1a06.chunk.js",
+    "main.js.map": "/KevinBalanta/Venturit-Platform.git/static/js/main.d39d1a06.chunk.js.map",
+    "runtime-main.js": "/KevinBalanta/Venturit-Platform.git/static/js/runtime-main.ffa95fe0.js",
+    "runtime-main.js.map": "/KevinBalanta/Venturit-Platform.git/static/js/runtime-main.ffa95fe0.js.map",
+    "static/js/2.f220be31.chunk.js": "/KevinBalanta/Venturit-Platform.git/static/js/2.f220be31.chunk.js",
+    "static/js/2.f220be31.chunk.js.map": "/KevinBalanta/Venturit-Platform.git/static/js/2.f220be31.chunk.js.map",
+    "static/js/3.6c45741e.chunk.js": "/KevinBalanta/Venturit-Platform.git/static/js/3.6c45741e.chunk.js",
+    "static/js/3.6c45741e.chunk.js.map": "/KevinBalanta/Venturit-Platform.git/static/js/3.6c45741e.chunk.js.map",
+    "index.html": "/KevinBalanta/Venturit-Platform.git/index.html",
+    "static/css/main.bae08aac.chunk.css.map": "/KevinBalanta/Venturit-Platform.git/static/css/main.bae08aac.chunk.css.map",
+    "static/js/2.f220be31.chunk.js.LICENSE.txt": "/KevinBalanta/Venturit-Platform.git/static/js/2.f220be31.chunk.js.LICENSE.txt",
+    "static/media/Group1@1,5x.6c73f575.svg": "/KevinBalanta/Venturit-Platform.git/static/media/Group1@1,5x.6c73f575.svg",
+    "static/media/Group@3x.b814a231.png": "/KevinBalanta/Venturit-Platform.git/static/media/Group@3x.b814a231.png",
+    "static/media/Picture@3x.8627c5cf.png": "/KevinBalanta/Venturit-Platform.git/static/media/Picture@3x.8627c5cf.png",
+    "static/media/clock.b708c053.png": "/KevinBalanta/Venturit-Platform.git/static/media/clock.b708c053.png",
+    "static/media/dashboard.css": "/KevinBalanta/Venturit-Platform.git/static/media/header.71096e7f.svg",
+    "static/media/logo.6ce24c58.svg": "/KevinBalanta/Venturit-Platform.git/static/media/logo.6ce24c58.svg",
+    "static/media/progress.css": "/KevinBalanta/Venturit-Platform.git/static/media/oval-footer.226a23b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffa95fe0.js",
+    "static/js/2.f220be31.chunk.js",
+    "static/css/main.bae08aac.chunk.css",
+    "static/js/main.d39d1a06.chunk.js"
+  ]
+}
